@@ -2,5 +2,19 @@
         background-color: #547BA1;
         padding-bottom: 17rem;
         color: white;
+        font-family: monospace;
 }
 
+.homepage button {
+        width: 15rem;
+        height: 4rem;
+        border-radius: 1rem;
+}
+
+.homepage h1 {
+        font-size: 42px;
+}
+
+.homepage button:hover {
+        background-color: #a1c5dc;
+}

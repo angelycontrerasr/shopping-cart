@@ -1,0 +1,7 @@
+.cards button:hover {
+    background-color: black;
+}
+
+.cards button {
+    background-color: lightgray;
+}
