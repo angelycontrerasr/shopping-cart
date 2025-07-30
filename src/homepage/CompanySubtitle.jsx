@@ -1,5 +1,5 @@
 export default function CompanySubtitle() {
     return (
-        <h2>Electronics...with style</h2>
+        <h2>Electronics...with style.</h2>
     )
 }

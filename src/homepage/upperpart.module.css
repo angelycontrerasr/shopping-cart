@@ -1,3 +1,14 @@
 .upperpart {
-    background-color: #646cff;
+    background-color: white;
+    align-items: start;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 0.5rem;
+}
+.upperpart h1 {
+    color: #0066CC;
+    margin-bottom: 2rem;
+}
+.upperpart h2 {
+    color: black;
 }
